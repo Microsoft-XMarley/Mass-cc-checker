@@ -1,4 +1,4 @@
-# CC Checker
+# X-MARLEY CC Checker
 
 This is a simple web-based tool for checking the validity of credit card numbers. The tool is built using HTML, CSS, and Bootstrap for the front-end, and PHP for the back-end.
 
